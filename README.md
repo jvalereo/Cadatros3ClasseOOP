@@ -1,7 +1,5 @@
 # Layout
 
-![2](https://github.com/jvalereo/Cadatros3ClasseOOP/assets/25933386/09743974-24d6-43c6-a1eb-3f68c46fe9b5)
-
 <a href="#">
 <img align="center"  alt="jonas-Layout" height ="500" width ="1000" src ="https://github.com/jvalereo/Cadatros3ClasseOOP/assets/25933386/15bc3ebe-6d64-4453-87f7-79dd67be8e2e"></img>
 </a>
@@ -15,13 +13,13 @@
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="700" width ="900" src ="https://user-images.githubusercontent.com/25933386/227806340-9d3c9063-92ea-43cd-8505-80fc99c31753.JPG"></img>
+<img align="center"  alt="jonas-Layout" height ="700" width ="900" src ="https://github.com/jvalereo/Cadatros3ClasseOOP/assets/25933386/0aeb02b4-cffb-42de-b5dc-ac271d58eb3b"></img>
 </a>
 
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="700" width ="900" src ="https://user-images.githubusercontent.com/25933386/227806533-1987c13d-8fe0-4e86-8033-4b255ab61f05.JPG"></img>
+<img align="center"  alt="jonas-Layout" height ="700" width ="900" src ="https://github.com/jvalereo/Cadatros3ClasseOOP/assets/25933386/95195a59-74a5-49e2-83d3-04601642ce08"></img>
 </a>
 
 ##
