@@ -30,7 +30,7 @@
 <img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
 </a>
 
-# Projeto Sistema de Cadastro Simples - Com Banco de Dados
+# Projeto Sistema de Cadastro - Com Classe e Subclasse
 
 <a href="#">
 <img align="center"  alt="jonas-Dev" height ="70" width ="160" src ="https://user-images.githubusercontent.com/25933386/116831049-87107400-ab83-11eb-947b-0a94a3e89f04.png" style="max-width: 100%;"></img>
@@ -38,10 +38,11 @@
 
 # Sobre o Projeto
 
-- PROJETO:  SISTEMA DE CADASTRO SIMPLES - E COM BANDO DE DADOS
-- Projeto basico de CSharp em Laboratório , desenvolver um sistema basico, Cadastro simples, onde simula, inserindo dados da pessoa no sistema, esse programa  tem banco de dados com estrutura básica, que simula gravando dados e retorna o dados na tela de cadastro, sua implementação é executado no localhost, na maquina local.
-- Aprendizado, e o conhecimento básicos e aperfeiçomento em técnicas e desenvolvimento em sistema 2023
-- Data:  15/02/2023
+- PROJETO:  SISTEMA DE CADASTRO SIMPLES DE PESSOAS
+- Projeto basico de CSharp em Laboratório , desenvolver um sistema basico, Cadastro de pessoas, esse programa  não tem banco de dados,
+- sua implementação é executado no localhost, na maquina local.
+- Aprendizado, conhecimento básicos e aperfeiçomento em técnicas e desenvolvimento em sistema 2024
+- Data:  02/01/2024
 - Aluno: Jonas Valereo - Técnico em Informática
 - IDE Visual Studio
 
