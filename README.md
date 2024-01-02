@@ -43,7 +43,7 @@
 - sua implementação é executado no localhost, na maquina local.
 - Aprendizado, conhecimento básicos e aperfeiçomento em técnicas e desenvolvimento em sistema 2024
 - Data:  02/01/2024
-- Aluno: Jonas Valereo - Técnico em Informática
+- Jonas Valereo - Técnico em Informática
 - IDE Visual Studio
 
 # Tecnologia Aplicada no Projeto
