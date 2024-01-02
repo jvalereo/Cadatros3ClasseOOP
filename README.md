@@ -13,13 +13,13 @@
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="700" width ="900" src ="https://github.com/jvalereo/Cadatros3ClasseOOP/assets/25933386/0aeb02b4-cffb-42de-b5dc-ac271d58eb3b"></img>
+<img align="center"  alt="jonas-Layout" height ="500" width ="900" src ="https://github.com/jvalereo/Cadatros3ClasseOOP/assets/25933386/0aeb02b4-cffb-42de-b5dc-ac271d58eb3b"></img>
 </a>
 
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="700" width ="900" src ="https://github.com/jvalereo/Cadatros3ClasseOOP/assets/25933386/95195a59-74a5-49e2-83d3-04601642ce08"></img>
+<img align="center"  alt="jonas-Layout" height ="500" width ="900" src ="https://github.com/jvalereo/Cadatros3ClasseOOP/assets/25933386/95195a59-74a5-49e2-83d3-04601642ce08"></img>
 </a>
 
 ##
