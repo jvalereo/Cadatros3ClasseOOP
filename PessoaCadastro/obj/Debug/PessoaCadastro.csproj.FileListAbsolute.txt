@@ -1,0 +1,7 @@
+C:\Users\Jonas Programador\source\repos\PessoaCadastro\PessoaCadastro\bin\Debug\PessoaCadastro.exe.config
+C:\Users\Jonas Programador\source\repos\PessoaCadastro\PessoaCadastro\bin\Debug\PessoaCadastro.exe
+C:\Users\Jonas Programador\source\repos\PessoaCadastro\PessoaCadastro\bin\Debug\PessoaCadastro.pdb
+C:\Users\Jonas Programador\source\repos\PessoaCadastro\PessoaCadastro\obj\Debug\PessoaCadastro.csproj.AssemblyReference.cache
+C:\Users\Jonas Programador\source\repos\PessoaCadastro\PessoaCadastro\obj\Debug\PessoaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Programador\source\repos\PessoaCadastro\PessoaCadastro\obj\Debug\PessoaCadastro.exe
+C:\Users\Jonas Programador\source\repos\PessoaCadastro\PessoaCadastro\obj\Debug\PessoaCadastro.pdb
