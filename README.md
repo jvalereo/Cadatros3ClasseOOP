@@ -57,4 +57,3 @@
 # Autor
 
 - Jonas Valereo - Técnico em Informática 
-![DSCF4678](https://github.com/user-attachments/assets/1464c3b9-458e-49c9-a71d-f811e4967b78)
