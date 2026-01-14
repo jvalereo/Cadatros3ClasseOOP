@@ -1,6 +1,6 @@
 # Layout
 
-<a href="#">
+<a target=_blank>
 <target=_blank><img align="center"  alt="jonas-Layout" height ="500" width ="1000" src ="https://github.com/jvalereo/Cadatros3ClasseOOP/assets/25933386/15bc3ebe-6d64-4453-87f7-79dd67be8e2e"></img></target>
 </a>
 
